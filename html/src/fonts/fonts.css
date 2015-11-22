@@ -1,0 +1,6 @@
+@font-face {
+    font-family: bebasneue;
+    src:
+            url('bebasneue.woff2') format('woff2'),
+            url('bebasneue.woff') format('woff');
+}
